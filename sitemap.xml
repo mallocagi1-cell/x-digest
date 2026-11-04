@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://xdigest.cc/</loc><lastmod>2026-11-04</lastmod></url>
+  <url><loc>https://xdigest.cc/</loc><lastmod>2026-11-05</lastmod></url>
   <url><loc>https://xdigest.cc/a/2026-10-21-anthropic.html</loc><lastmod>2026-10-21</lastmod></url>
   <url><loc>https://xdigest.cc/a/2026-10-21-beat.html</loc><lastmod>2026-10-21</lastmod></url>
   <url><loc>https://xdigest.cc/a/2026-10-21-spacex.html</loc><lastmod>2026-10-21</lastmod></url>
@@ -46,6 +46,9 @@
   <url><loc>https://xdigest.cc/a/2026-11-04-amd.html</loc><lastmod>2026-11-04</lastmod></url>
   <url><loc>https://xdigest.cc/a/2026-11-04-palantir.html</loc><lastmod>2026-11-04</lastmod></url>
   <url><loc>https://xdigest.cc/a/2026-11-04-smci.html</loc><lastmod>2026-11-04</lastmod></url>
+  <url><loc>https://xdigest.cc/a/2026-11-05-bitcoin.html</loc><lastmod>2026-11-05</lastmod></url>
+  <url><loc>https://xdigest.cc/a/2026-11-05-midterms.html</loc><lastmod>2026-11-05</lastmod></url>
+  <url><loc>https://xdigest.cc/a/2026-11-05-oil.html</loc><lastmod>2026-11-05</lastmod></url>
   <url><loc>https://xdigest.cc/d/2026-10-21.html</loc><lastmod>2026-10-21</lastmod></url>
   <url><loc>https://xdigest.cc/d/2026-10-22.html</loc><lastmod>2026-10-22</lastmod></url>
   <url><loc>https://xdigest.cc/d/2026-10-23.html</loc><lastmod>2026-10-23</lastmod></url>
@@ -61,4 +64,5 @@
   <url><loc>https://xdigest.cc/d/2026-11-02.html</loc><lastmod>2026-11-02</lastmod></url>
   <url><loc>https://xdigest.cc/d/2026-11-03.html</loc><lastmod>2026-11-03</lastmod></url>
   <url><loc>https://xdigest.cc/d/2026-11-04.html</loc><lastmod>2026-11-04</lastmod></url>
+  <url><loc>https://xdigest.cc/d/2026-11-05.html</loc><lastmod>2026-11-05</lastmod></url>
 </urlset>
