@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://xdigest.cc/</loc><lastmod>2026-11-08</lastmod></url>
+  <url><loc>https://xdigest.cc/</loc><lastmod>2026-11-09</lastmod></url>
   <url><loc>https://xdigest.cc/a/2026-10-21-anthropic.html</loc><lastmod>2026-10-21</lastmod></url>
   <url><loc>https://xdigest.cc/a/2026-10-21-beat.html</loc><lastmod>2026-10-21</lastmod></url>
   <url><loc>https://xdigest.cc/a/2026-10-21-spacex.html</loc><lastmod>2026-10-21</lastmod></url>
@@ -55,6 +55,9 @@
   <url><loc>https://xdigest.cc/a/2026-11-08-berkshire.html</loc><lastmod>2026-11-08</lastmod></url>
   <url><loc>https://xdigest.cc/a/2026-11-08-nvidia.html</loc><lastmod>2026-11-08</lastmod></url>
   <url><loc>https://xdigest.cc/a/2026-11-08-taiwan.html</loc><lastmod>2026-11-08</lastmod></url>
+  <url><loc>https://xdigest.cc/a/2026-11-09-datacenter-ballot.html</loc><lastmod>2026-11-09</lastmod></url>
+  <url><loc>https://xdigest.cc/a/2026-11-09-memory-priced.html</loc><lastmod>2026-11-09</lastmod></url>
+  <url><loc>https://xdigest.cc/a/2026-11-09-nvidia-probe.html</loc><lastmod>2026-11-09</lastmod></url>
   <url><loc>https://xdigest.cc/d/2026-10-21.html</loc><lastmod>2026-10-21</lastmod></url>
   <url><loc>https://xdigest.cc/d/2026-10-22.html</loc><lastmod>2026-10-22</lastmod></url>
   <url><loc>https://xdigest.cc/d/2026-10-23.html</loc><lastmod>2026-10-23</lastmod></url>
@@ -73,4 +76,5 @@
   <url><loc>https://xdigest.cc/d/2026-11-05.html</loc><lastmod>2026-11-05</lastmod></url>
   <url><loc>https://xdigest.cc/d/2026-11-07.html</loc><lastmod>2026-11-07</lastmod></url>
   <url><loc>https://xdigest.cc/d/2026-11-08.html</loc><lastmod>2026-11-08</lastmod></url>
+  <url><loc>https://xdigest.cc/d/2026-11-09.html</loc><lastmod>2026-11-09</lastmod></url>
 </urlset>
