@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://xdigest.cc/</loc><lastmod>2026-11-10</lastmod></url>
+  <url><loc>https://xdigest.cc/</loc><lastmod>2026-11-11</lastmod></url>
   <url><loc>https://xdigest.cc/a/2026-10-21-anthropic.html</loc><lastmod>2026-10-21</lastmod></url>
   <url><loc>https://xdigest.cc/a/2026-10-21-beat.html</loc><lastmod>2026-10-21</lastmod></url>
   <url><loc>https://xdigest.cc/a/2026-10-21-spacex.html</loc><lastmod>2026-10-21</lastmod></url>
@@ -61,6 +61,9 @@
   <url><loc>https://xdigest.cc/a/2026-11-10-bitcoin-cost.html</loc><lastmod>2026-11-10</lastmod></url>
   <url><loc>https://xdigest.cc/a/2026-11-10-china-ppi.html</loc><lastmod>2026-11-10</lastmod></url>
   <url><loc>https://xdigest.cc/a/2026-11-10-nvidia-alone.html</loc><lastmod>2026-11-10</lastmod></url>
+  <url><loc>https://xdigest.cc/a/2026-11-11-anthropic-ipo.html</loc><lastmod>2026-11-11</lastmod></url>
+  <url><loc>https://xdigest.cc/a/2026-11-11-cpi-hike.html</loc><lastmod>2026-11-11</lastmod></url>
+  <url><loc>https://xdigest.cc/a/2026-11-11-nvidia-export.html</loc><lastmod>2026-11-11</lastmod></url>
   <url><loc>https://xdigest.cc/d/2026-10-21.html</loc><lastmod>2026-10-21</lastmod></url>
   <url><loc>https://xdigest.cc/d/2026-10-22.html</loc><lastmod>2026-10-22</lastmod></url>
   <url><loc>https://xdigest.cc/d/2026-10-23.html</loc><lastmod>2026-10-23</lastmod></url>
@@ -81,4 +84,5 @@
   <url><loc>https://xdigest.cc/d/2026-11-08.html</loc><lastmod>2026-11-08</lastmod></url>
   <url><loc>https://xdigest.cc/d/2026-11-09.html</loc><lastmod>2026-11-09</lastmod></url>
   <url><loc>https://xdigest.cc/d/2026-11-10.html</loc><lastmod>2026-11-10</lastmod></url>
+  <url><loc>https://xdigest.cc/d/2026-11-11.html</loc><lastmod>2026-11-11</lastmod></url>
 </urlset>
