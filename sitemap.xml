@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://xdigest.cc/</loc><lastmod>2026-11-12</lastmod></url>
+  <url><loc>https://xdigest.cc/</loc><lastmod>2026-11-13</lastmod></url>
   <url><loc>https://xdigest.cc/a/2026-10-21-anthropic.html</loc><lastmod>2026-10-21</lastmod></url>
   <url><loc>https://xdigest.cc/a/2026-10-21-beat.html</loc><lastmod>2026-10-21</lastmod></url>
   <url><loc>https://xdigest.cc/a/2026-10-21-spacex.html</loc><lastmod>2026-10-21</lastmod></url>
@@ -67,6 +67,9 @@
   <url><loc>https://xdigest.cc/a/2026-11-12-coreweave-q3.html</loc><lastmod>2026-11-12</lastmod></url>
   <url><loc>https://xdigest.cc/a/2026-11-12-gold-4000.html</loc><lastmod>2026-11-12</lastmod></url>
   <url><loc>https://xdigest.cc/a/2026-11-12-nvidia-retail.html</loc><lastmod>2026-11-12</lastmod></url>
+  <url><loc>https://xdigest.cc/a/2026-11-13-home-sales-2010.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://xdigest.cc/a/2026-11-13-nvidia-huang-exit.html</loc><lastmod>2026-11-13</lastmod></url>
+  <url><loc>https://xdigest.cc/a/2026-11-13-strategy-msci.html</loc><lastmod>2026-11-13</lastmod></url>
   <url><loc>https://xdigest.cc/d/2026-10-21.html</loc><lastmod>2026-10-21</lastmod></url>
   <url><loc>https://xdigest.cc/d/2026-10-22.html</loc><lastmod>2026-10-22</lastmod></url>
   <url><loc>https://xdigest.cc/d/2026-10-23.html</loc><lastmod>2026-10-23</lastmod></url>
@@ -89,4 +92,5 @@
   <url><loc>https://xdigest.cc/d/2026-11-10.html</loc><lastmod>2026-11-10</lastmod></url>
   <url><loc>https://xdigest.cc/d/2026-11-11.html</loc><lastmod>2026-11-11</lastmod></url>
   <url><loc>https://xdigest.cc/d/2026-11-12.html</loc><lastmod>2026-11-12</lastmod></url>
+  <url><loc>https://xdigest.cc/d/2026-11-13.html</loc><lastmod>2026-11-13</lastmod></url>
 </urlset>
